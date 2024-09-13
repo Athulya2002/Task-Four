@@ -8,7 +8,7 @@ This repository contains two simple programs:
 ## Files
 
 1. `main.rs` - The Rust program.
-2. `index.php` - The PHP script.
+2. `time.php` - The PHP script.
 
 ## How to run
 
@@ -19,7 +19,7 @@ This repository contains two simple programs:
 
 ### PHP
 
-1. Use any PHP server to run `index.php`.
+1. Use any PHP server to run `time.php`.
 2. Open it in the browser to see the output.
 
 ---
